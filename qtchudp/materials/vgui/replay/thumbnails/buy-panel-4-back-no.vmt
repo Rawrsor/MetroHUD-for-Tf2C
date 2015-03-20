@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui\replay\thumbnails\buy-panel-4-back-no"
+	"$alpha" "1"
+	"$vertexalpha" "1"	
+	"$vertexcolor" "1"
+	"$no_fullbright" "1"
+	"$ignorez" "1"
+	"%keywords" "tf"
+}
